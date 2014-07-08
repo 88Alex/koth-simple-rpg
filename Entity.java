@@ -1,0 +1,1 @@
+public enum Entity { NONE, OBSTACLE, GOBLIN, ORC, TROLL, GIANT, DRAGON }
